@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MTmanAPI", "MTmanAPI\MTmanAPI.csproj", "{46A2F2A8-C70B-4867-A361-9FF22EAF9258}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MT4ClassLibrary", "MT4ClassLibrary\MT4ClassLibrary.csproj", "{F89CB22B-2633-4F4B-B730-F370F4F51794}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "temWebApplication1", "temWebApplication1\temWebApplication1.csproj", "{4C9D76CF-B259-4B4D-9D16-CF09F7698169}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46A2F2A8-C70B-4867-A361-9FF22EAF9258}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46A2F2A8-C70B-4867-A361-9FF22EAF9258}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46A2F2A8-C70B-4867-A361-9FF22EAF9258}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46A2F2A8-C70B-4867-A361-9FF22EAF9258}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F89CB22B-2633-4F4B-B730-F370F4F51794}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F89CB22B-2633-4F4B-B730-F370F4F51794}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F89CB22B-2633-4F4B-B730-F370F4F51794}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F89CB22B-2633-4F4B-B730-F370F4F51794}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C9D76CF-B259-4B4D-9D16-CF09F7698169}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C9D76CF-B259-4B4D-9D16-CF09F7698169}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C9D76CF-B259-4B4D-9D16-CF09F7698169}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C9D76CF-B259-4B4D-9D16-CF09F7698169}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

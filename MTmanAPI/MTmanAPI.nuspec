@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>MTmanAPI</id>
+    <version>2.0.0</version>
+    <title>MTmanAPI</title>
+    <authors>Atom AP</authors>
+    <owners>Atom AP</owners>
+    <licenseUrl>http://LICENSE_URL_HERE_OR_DELETE_THIS_LINE</licenseUrl>
+    <projectUrl>http://PROJECT_URL_HERE_OR_DELETE_THIS_LINE</projectUrl>
+    <iconUrl>http://ICON_URL_HERE_OR_DELETE_THIS_LINE</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>MT MAN API</description>
+    <releaseNotes>MTmanAPI</releaseNotes>
+    <copyright>Copyright 2016</copyright>
+    <tags>MTmanAPI</tags>
+  </metadata>
+</package>
